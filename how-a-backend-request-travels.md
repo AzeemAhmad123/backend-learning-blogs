@@ -40,7 +40,7 @@ Your browser first checks:
 
 If it doesn’t find the IP address, it contacts DNS.
 
-![How The Web Works](images/0_w4_IIjmSUdtMp-hT.png)
+![How The Web Works](images/How-The-Web-Works.png)
 
 ---
 
@@ -154,3 +154,4 @@ When we truly understand how a request moves from the browser to the database an
 
 Frontend presents the experience.
 Backend powers the experience.
+
